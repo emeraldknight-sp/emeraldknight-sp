@@ -10,9 +10,9 @@
 <div align="center" style="display: flex;">
   <a href="https://github.com/emeraldknight-sp">
 <!-- STATS -->
-  <img alt="status" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=emeraldknight-sp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img alt="status" width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=emeraldknight-sp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <!-- LANGUAGES -->
-  <img alt="status" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeraldknight-sp&layout=compact&langs_count=7&theme=dark"/>
+  <img alt="status" width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeraldknight-sp&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
