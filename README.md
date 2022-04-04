@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando atualmente em aprimorar minhas tech-skills de Front-end
 - 🌱 Estou aprendendo Node e Express atualmente no 4º Módulo na Kenzie Academy
-- 💬 Pergumte-me sobre CSS, buscarei a melhor forma para te ajudar
+- 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
 - 😄 Pronomes: Ele/Dele
 
