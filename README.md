@@ -2,7 +2,7 @@
 ### Eu sou David Almeida e sou um Desenvolvedor Web em formação
 
 - 🔭 Estou trabalhando atualmente em aprimorar minhas tech-skills de Front-end
-- 🌱 Estou aprendendo Node e Express atualmente no 4º Módulo na Kenzie Academy
+- 🌱 Estou aprendendo Node, Express e SQL com PostgreSQL atualmente no 4º Módulo na Kenzie Academy
 - 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
 - 😄 Pronomes: Ele/Dele
@@ -25,6 +25,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="emeraldknight-sp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!-- REACT -->
   <img align="center" alt="emeraldknight-sp-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="emeraldknight-sp-React" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="emeraldknight-sp-React" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="emeraldknight-sp-React" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
   
