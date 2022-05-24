@@ -2,7 +2,7 @@
 ### Eu sou David Almeida e sou um Desenvolvedor Web em formação
 
 - 🔭 Estou trabalhando atualmente em aprimorar minhas tech-skills de Front-end
-- 🌱 Estou aprendendo Node, Express e SQL com PostgreSQL atualmente no 4º Módulo na Kenzie Academy
+- 🌱 Estou aprendendo Node, Express e SQL com PostgreSQL no 4º Módulo na Kenzie Academy
 - 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
 - 😄 Pronomes: Ele/Dele
