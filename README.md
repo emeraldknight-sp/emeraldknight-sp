@@ -1,8 +1,8 @@
 ## Olá, bem-vindo(a) ao meu perfil no GitHub! 
-### Eu sou David Almeida e sou um Desenvolvedor Web em formação
+### Eu sou David Almeida e sou um Desenvolvedor Front-End Jr
 
-- 🔭 Estou trabalhando atualmente em aprimorar minhas tech-skills de Front-end
-- 🌱 Estou aprendendo Node, Express e SQL com PostgreSQL no 4º Módulo na Kenzie Academy
+- 🔭 Estou atualmente buscando aprimorar minhas hard skills em Front-end
+- 🌱 Estou aprendendo a cada dia que passa a ser um ótimo desenvolvedor
 - 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
 - 😄 Pronomes: Ele/Dele
