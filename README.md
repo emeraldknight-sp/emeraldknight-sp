@@ -6,6 +6,7 @@
 - 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
 - 😄 Pronomes: Ele/Dele
+- 🗂 Conheça o meu portfólio: <a href="https://portfolio-david-almeida.vercel.app/" target="_blank" rel="noreferrer" >Link</a>
 
 <div align="center" style="display: flex;">
   <a href="https://github.com/emeraldknight-sp">
