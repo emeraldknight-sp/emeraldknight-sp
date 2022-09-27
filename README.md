@@ -5,7 +5,6 @@
 - 🌱 Estou aprendendo a cada dia que passa a ser um ótimo desenvolvedor
 - 💬 Pergunte-me sobre CSS, buscarei a melhor forma para te ajudar
 - 📫 Como me contactar: contato.davidalmeida@outlook.com ou pelas redes sociais
-- 😄 Pronomes: Ele/Dele
 - 🗂 Conheça o meu <a href="https://portfolio-david-almeida.vercel.app/" target="_blank" rel="noreferrer" >portfolio</a>!
 
 <div align="center" style="display: flex;">
