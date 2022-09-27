@@ -39,8 +39,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <div align="center"> 
 <!-- INSTAGRAM -->
   <a href="https://instagram.com/_emeraldknight" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EA3135?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- TWITCH -->
- 	<a href="https://www.twitch.tv/emeraldknightofc" target="_blank"><img src="https://img.shields.io/badge/Twitch-F8A62B?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <!-- DISCORD -->
    <a href="https://discord.gg/RUx9WxZ" target="_blank"><img src="https://img.shields.io/badge/Discord-3DA560?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <!-- OUTLOOK -->
