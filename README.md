@@ -43,3 +43,4 @@ Me chamo David Almeida, tenho 25 anos, sou um desenvolvedor web e mobile com div
 - [Rocketseat](https://www.youtube.com/@rocketseat)
 - [Digital Innovation One](https://www.youtube.com/@diomakethechange)
 - [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
+- [Fabio Akita](https://www.youtube.com/@Akitando)
