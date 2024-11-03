@@ -1,24 +1,23 @@
 # Olá, seja bem-vindo(a)! 👋
 
-Me chamo David Almeida, tenho 25 anos, sou um desenvolvedor web e mobile com diversas stacks trabalhadas e outras em aperfeiçoamento.
+Me chamo David Almeida, tenho 25 anos, sou um desenvolvedor web e mobile com 4 anos de experiência, projetos que refletem conceitos e muito aprendizado prático.
 
-👩‍💻 Trabalho atualmente como freelancer
+👩‍💻 Estou buscando uma oportunidade de atuação com criação de sites e/ou aplicativos
 
 🧠 Estou aprendendo a desenvolver melhor as minhas habilidades técnicas a cada dia
 
 👯‍♀️ Procuro colaborar em projetos de qualquer espécie
 
-🤔 Procuro ajuda com desenvolvimento de bots para Discord/Telegram
+🤔 Busco ajuda com desenvolvimento de bots para Discord/Telegram/WhatsApp
 
-💬 Me pergunte sobre estilizações no front-end
+💬 Me pergunte sobre desenvolvimento web/mobile, bibliotecas que utilizo e UX/UI design
 
-📫 Como entrar em contato comigo você pode me encontrar no <a href="https://signal.me/#eu/OCa5yL5EtHtyByR9zgHaENZ20v4PRKAJIjfpbvqm1qTYZUXVHLpHvJX-ag5sz2OJ" target="_blank">Signal</a>, no <a href="https://discord.gg/RUx9WxZ" target="_blank">Discord</a> ou <a href="https://instagram.com/davidalmeidadev" target="_blank">Instagram</a>!
+📫 Você pode entrar em contato comigo através do meu email contato.davidalmeida@outlook.com!
 
 ## 🌐 Meus links
 
 [![Meu Portfolio](https://img.shields.io/badge/Meu_portfolio-%23d4b51c.svg?logo=playstation&logoColor=white)](https://react-portfolio-3-0.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RUx9WxZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidalmeidadev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidalmeidadev) [![TikTok](https://img.shields.io/badge/TikTok-%23.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@davidalmeidadev)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RUx9WxZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidalmeidadev)
 
 ## ⭐ GitHub Status
 
